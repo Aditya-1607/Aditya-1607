@@ -1,21 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=200&section=header&text=Aditya%20Sheth&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20DS%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+with+Python%2C+Java+%26+C%2B%2B;Machine+Learning+Enthusiast;Firebase+%7C+Android+App+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Python+%7C+Java+%7C+C%2B%2B+Developer;Machine+Learning+Enthusiast;Firebase+%26+Android+App+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aditya-1607&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Aditya-1607?label=Followers&style=flat&color=2563eb" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Aditya-1607&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Aditya-1607?label=Followers&style=for-the-badge&color=2563eb" alt="Followers"/>
 
 </div>
 
 <br/>
 
-### 👨‍💻 Who I Am
+## 👨‍💻 About Me
+
+- 🎓 AI & Data Science student, currently exploring Machine Learning and Android development
+- 💻 Comfortable across **Python, Java, and C++**
+- 🔥 Building real-world apps with **Firebase**
+- 🚀 Currently building **IMH_Sales_Services** — an Android service management app
+- 🌱 Always looking to grow my ML and full-stack skills
+- 🤝 Open to collaborating on interesting AI/ML and Android projects
+
+<details>
+<summary>📋 View as code</summary>
 
 ```typescript
 const aditya = {
@@ -28,72 +38,82 @@ const aditya = {
 };
 ```
 
+</details>
+
 <br/>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### IMH_Sales_Services
+<table>
+<tr>
+<td width="100%">
+
+### 📱 IMH_Sales_Services
 
 Android-based service management app for IMH Sales & Services, featuring customer management, service reports, maintenance history, and Firebase integration.
 
-<div align="center">
 <a href="https://github.com/Aditya-1607/IMH_Sales_Services">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-1607&repo=IMH_Sales_Services&theme=nord&border_color=2563eb&title_color=2563eb" alt="IMH_Sales_Services"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-1607&repo=IMH_Sales_Services&theme=nord&border_color=2563eb&title_color=2563eb&icon_color=2563eb" alt="IMH_Sales_Services"/>
 </a>
-</div>
 
 | Layer | Technology |
 |---|---|
 | Language | Java |
-| Backend/Database | Firebase |
+| Backend / Database | Firebase |
 | Platform | Android |
-
-<div align="center">
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-1607/IMH_Sales_Services)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" alt="Languages"/>
 
-**Backend / Cloud / DB**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=firebase" alt="Backend/Cloud"/>
+**Backend · Cloud · Database**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Backend/Cloud"/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-1607&show_icons=true&theme=nord&border_color=2563eb&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-1607&layout=compact&theme=nord&border_color=2563eb&title_color=2563eb&text_color=c9d1d9" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Aditya-1607&theme=nord&border=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub Streak"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-1607&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-1607&theme=nord&hide_border=true&color=2563eb&line=2563eb&point=ffffff" alt="Activity Graph"/>
 </div>
 
 <br/>
 
-### 🔗 Connect With Me
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-1607&show_icons=true&theme=nord&border_color=2563eb&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-1607&layout=compact&theme=nord&border_color=2563eb&title_color=2563eb&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Aditya-1607&theme=nord&border=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-1607&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies"/>
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-1607&theme=nord&hide_border=true&color=2563eb&line=2563eb&point=ffffff&area=true&area_color=2563eb" alt="Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+## 🔗 Connect With Me
 
 <div align="center">
 
@@ -103,4 +123,10 @@ Android-based service management app for IMH Sales & Services, featuring custome
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+
+*💡 Thanks for stopping by — feel free to explore my repos and connect!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a8a&height=150&section=footer&animation=twinkling" width="100%"/>
+
+</div>
